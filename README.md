@@ -1,7 +1,6 @@
 - @sigulsus
-- the worlds easiest and most fun private platform
-- currently developing sigils beta for early access members
-- contact us 24/7 at sigils@usa.com
+- intuitive and innovatory platform for quantitive trading at a small scale
+- currently developing sigils beta
 
 <!---
 sigilsus/sigilsus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
